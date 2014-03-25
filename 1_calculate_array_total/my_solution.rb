@@ -76,8 +76,9 @@ end
 def total(array_of_num)
 	i = 0
 	sum = 0
-	for i in array_of_num.length 
+	while i < array_of_num.length 
 		sum += array_of_num[i]
+		i += 1
 	end 
 	return sum
 end
