@@ -110,18 +110,3 @@ Find and use built-in Ruby methods to solve challenges - confident
 
 =end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
